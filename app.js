@@ -109,7 +109,7 @@ var charts = {};
 // Daftar ke https://jsonbin.io (gratis) → buat bin baru → isi API Key & Bin ID di bawah
 var JSONBIN_API_KEY =
   "$2a$10$R.e79jeZLvBKCUb6mFnGGO/jEj7gvf1s7dV722TsAUbKb9XwneZXO"; // ← ganti ini
-var JSONBIN_BIN_ID = "6a021514adc21f119a85ace4 "; // ← ganti ini
+var JSONBIN_BIN_ID = "6a021514adc21f119a85ace4"; // ← ganti ini
 var JSONBIN_BASE = "https://api.jsonbin.io/v3/b/" + JSONBIN_BIN_ID;
 
 // Load link dari JSONBin (dipanggil saat login berhasil)
